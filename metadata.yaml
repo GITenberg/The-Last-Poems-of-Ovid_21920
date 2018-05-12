@@ -1,0 +1,32 @@
+_repo: The-Last-Poems-of-Ovid_21920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ovid
+    alias: Ovidius Naso, Publius
+    birthdate: -43
+    deathdate: 17
+    gutenberg_agent_id: '2868'
+    url: http://www.gutenberg.org/2009/agents/2868
+    wikipedia: http://en.wikipedia.org/wiki/Ovid
+  editor:
+    agent_name: Akrigg, Mark Bear
+    gutenberg_agent_id: '31786'
+    url: http://www.gutenberg.org/2009/agents/31786
+description: ''
+gutenberg_issued: '2007-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21920'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PA'
+- !lcsh 'Latin poetry'
+title: The Last Poems of Ovid
+url: http://www.gutenberg.org/ebooks/21920
